@@ -3,6 +3,8 @@ Patch update: Bee v0.1
 
 Abelha Africano/Europeia
 Stoping
-<img src="" data-canonical-src="https://github.com/Secoide/Farmine_Forge_1.19.4/assets/93934823/8ee2c472-1669-4aa0-ae3f-21ab82bb0bb6" width="50" height="50" />
+![bee__stop](https://github.com/Secoide/Farmine_Forge_1.19.4/assets/93934823/e37af3bb-585b-43e0-b187-5b4469b95176)
+
 Flyng
-<img src="" data-canonical-src="https://github.com/Secoide/Farmine_Forge_1.19.4/assets/93934823/1bd7a3c8-eb64-45db-b010-c4b300068d7c" width="50" height="50" />
+![bee__fly](https://github.com/Secoide/Farmine_Forge_1.19.4/assets/93934823/e6e32836-4909-43de-8a14-81a7ba75a3b5)
+
