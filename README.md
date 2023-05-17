@@ -10,7 +10,8 @@ O mod é voltado nas referencias a fazendas, sendo assim ira adicionar novos ani
 ## Patch update: **BEES v0.1**<img src="https://github.com/Secoide/Farmine_Forge_1.19.4/assets/93934823/64b6dbae-2f42-40bf-9e5b-c8f3883502f4" alt="Gif de abelha voando." width="50"/>
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
-    Primeira atualização do mod, voltado as abelhas com inumeras variedades de especies e seus derivados (mel, polen, ferrao, etc).
+    Primeira atualização do mod, voltado as abelhas com inumeras variedades de 
+    especies e seus derivados (mel, polen, ferrao, etc).
 
 
 ### Funcionalidades:
@@ -50,7 +51,7 @@ As abelhas e ninhos irão dropar itens de suas propriedades quando mortas e queb
 | 0.2 | Vespa asiática | 0% |
 | 0.2 | Abelha Verde (RARA) | 0% |
 
-<br /><br /><br /><br /><br />
+<br /><br />
 
 <!-- Oculto-->
 <details>
@@ -61,14 +62,12 @@ As abelhas e ninhos irão dropar itens de suas propriedades quando mortas e queb
   ![polem](https://github.com/Secoide/Farmine_Forge_1.19.4/assets/93934823/7d975e8c-d9f5-444f-8aaf-fbc9f014b7b6)
   ![favo_mel_cheio](https://github.com/Secoide/Farmine_Forge_1.19.4/assets/93934823/c9cad012-63c6-49f3-b582-0c7dfbcda8d1)
   
-  
 ### Produtos
   ![imunizante_abelha](https://github.com/Secoide/Farmine_Forge_1.19.4/assets/93934823/14370a84-cc72-4357-9525-cdd9d8e78975)
   ![mel](https://github.com/Secoide/Farmine_Forge_1.19.4/assets/93934823/3e128c6e-ef2a-4acb-b65b-ed0035075dc6)
   ![propolis](https://github.com/Secoide/Farmine_Forge_1.19.4/assets/93934823/81a79399-687c-46f4-80cb-29ab9dcbd69b)
   ![geleia_real](https://github.com/Secoide/Farmine_Forge_1.19.4/assets/93934823/e7067f6e-091c-442a-a397-f15763c6b49a)
   ![hidromel](https://github.com/Secoide/Farmine_Forge_1.19.4/assets/93934823/ff15823f-9f6b-46c8-bb7f-7cdb22a85188)
-  
   
 ### Abelhas
 > Abelha Europeia/Africana
@@ -89,10 +88,10 @@ As abelhas e ninhos irão dropar itens de suas propriedades quando mortas e queb
   <img src="https://github.com/Secoide/Farmine_Forge_1.19.4/assets/93934823/23b63c76-0d4e-42ed-970f-dfec1349378e" width="100px" />
 </div>
 
+<br /><br />
 
 </details>
-
-<br /><br /><br />
+<br />
 
 ### Fluxograma do Mod
 
