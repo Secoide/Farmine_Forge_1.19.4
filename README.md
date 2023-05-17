@@ -104,17 +104,19 @@ flowchart TD
     A --> |Drop: 30%| E(Polén)
     A --> |Spawn| G((Abelhas))
     G --> |Drop: 5%| H(Ferrão) --> |Suporte de poções| J(Apitoxina)
-    FA[Frasco de água] --> J
+    FA[Frasco de água] --> |1x| J
     G --> |Drop: 15%| I(Polén)
     FE1[Ferro] --> |1x| M(Caixa de abelha) --> O
     DI[Diamente] --> |1x| Q(Extensor de mel) --> |Upgrade| O
-    FE2[Ferro] --> |5x| R(Sistema automatico) --> |Upgrade| O
+    DI2[Diamente] --> |2x| R(Sistema automatico) --> |Upgrade| O
     L --> O{Caixa de abelha com enxame}
     MA1[Madeira] --> |6x| M 
     MA2[Madeira] --> |4x| Q 
-    MA3[Madeira] --> |Upgrade| R 
+    MA3[Madeira] --> |2x| R 
     D --> |1x| M
-    F --> |2x| Q
+    F --> |3x| Q
+    C --> |1x| Q
+    T(Quartz Refinado) --> |3x| R
 ```
 <br /><br />
 
