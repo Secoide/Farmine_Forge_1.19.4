@@ -97,15 +97,24 @@ As abelhas e ninhos irão dropar itens de suas propriedades quando mortas e queb
 
 ```mermaid
 flowchart TD
-    A{Ninho de Abelha} --> |Machado de Quartz -> Drop: 70%| L((Abelha Rainha))
+    A{Ninho de Abelha} --> |Machado de Quartz -> Drop: 55%| L((Cazulo da Rainha))
     A --> |Drop: 25%| C(Favo de mel cheio)
     A --> |Drop: 75%| D(Favo de mel vazio)
-    A --> |Drop: 30%| E(Polén)
     E --> |Bancada| F(Própolis)
+    A --> |Drop: 30%| E(Polén)
     A --> |Spawn| G((Abelhas))
     G --> |Drop: 5%| H(Ferrão) --> |Suporte de poções| J(Apitoxina)
-    K[Frasco de água] --> J
+    FA[Frasco de água] --> J
     G --> |Drop: 15%| I(Polén)
+    FE1[Ferro] --> |1x| M(Caixa de abelha) --> O
+    DI[Diamente] --> |1x| Q(Extensor de mel) --> |Upgrade| O
+    FE2[Ferro] --> |5x| R(Sistema automatico) --> |Upgrade| O
+    L --> O{Caixa de abelha com enxame}
+    MA1[Madeira] --> |6x| M 
+    MA2[Madeira] --> |4x| Q 
+    MA3[Madeira] --> |Upgrade| R 
+    D --> |1x| M
+    F --> |2x| Q
 ```
 <br /><br />
 
