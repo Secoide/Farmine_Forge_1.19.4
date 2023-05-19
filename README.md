@@ -54,8 +54,10 @@ As abelhas e ninhos irão dropar itens de suas propriedades quando mortas e queb
 <br /><br />
 
 <!-- Oculto-->
+## (SPOILER) Adicões
+
 <details>
-<summary> (SPOILER) Adicões</summary>
+<summary> MOSTRAR</summary>
   
 ### Drops
   ![ferrao_abelha](https://github.com/Secoide/Farmine_Forge_1.19.4/assets/93934823/85c35754-0f40-47af-9180-c8a040293f2f)
