@@ -8,7 +8,7 @@ O mod é voltado nas referencias a fazendas, sendo assim ira adicionar novos ani
 <br />
 
 ## Patch update: **BEES v0.1**<img src="https://github.com/Secoide/Farmine_Forge_1.19.4/assets/93934823/64b6dbae-2f42-40bf-9e5b-c8f3883502f4" alt="Gif de abelha voando." width="50"/>
-![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=brightgreen&style=for-the-badge)
 
     Primeira atualização do mod, voltado as abelhas com inumeras variedades de 
     especies e seus derivados (mel, polen, ferrao, etc).
@@ -95,29 +95,14 @@ As abelhas e ninhos irão dropar itens de suas propriedades quando mortas e queb
 
 ### Fluxograma do Mod
 
-```mermaid
-flowchart TD
-    A{Ninho de Abelha} --> |Machado de Quartz -> Drop: 55%| L((Cazulo da Rainha))
-    A --> |Drop: 25%| C(Favo de mel cheio)
-    A --> |Drop: 75%| D(Favo de mel vazio)
-    E --> |Bancada| F(Própolis)
-    A --> |Drop: 30%| E(Polén)
-    A --> |Spawn| G((Abelhas))
-    G --> |Drop: 5%| H(Ferrão) --> |Suporte de poções| J(Apitoxina)
-    FA[Frasco de água] --> |1x| J
-    G --> |Drop: 15%| I(Polén)
-    FE1[Ferro] --> |1x| M(Caixa de abelha) --> O
-    DI[Diamente] --> |1x| Q(Extensor de mel) --> |Upgrade| O
-    DI2[Diamente] --> |2x| R(Sistema automatico) --> |Upgrade| O
-    L --> O{Caixa de abelha com enxame}
-    MA1[Madeira] --> |6x| M 
-    MA2[Madeira] --> |4x| Q 
-    MA3[Madeira] --> |2x| R 
-    D --> |1x| M
-    F --> |3x| Q
-    C --> |1x| Q
-    T(Quartz Refinado) --> |3x| R
-```
-<br /><br />
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20CONSTRUÇÃO&color=orange&style=for-the-badge)
+
+<br />
+
+# Autor
+
+| [<img src="https://avatars.githubusercontent.com/u/93934823" width=115><br><sub>Guilherme Schvaickardt</sub>](https://github.com/Secoide) |
+| :---: |
+| Secoide |
 
 
